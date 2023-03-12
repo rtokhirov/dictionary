@@ -1,0 +1,21 @@
+*,::after,::before{
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html{
+  font-size: 62.5%;
+}
+body{
+  font-size: 1.6rem;
+}
+
+.sans {
+  font-family: 'Inter';
+}
+.serif {
+  font-family: 'Lora';
+}
+.mono {
+  font-family: 'Inconsolata';
+}
